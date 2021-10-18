@@ -1,16 +1,17 @@
-### Hi there 👋
+### AnnatarHe 👋
 
-<!--
-**AnnatarHe/AnnatarHe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Fullstack Engineer from China.
 
-Here are some ideas to get you started:
+[Home page](https://AnnatarHe.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently working on:
+
+- [ClippingKK](http://clippingkk.annatarhe.com/) A project (with Web/Mobile App) to parse files from kindle to server
+- [Athena] A secret project
+- [AsyncTalk](https://www.xiaoyuzhoufm.com/podcast/61684ce4d8fa23fb00fc4d3a?s=eyJ1IjogIjVlN2NiYjEzYTJmMmU1MDNjZWMzZjk4NSJ9) A podcast project commited to bring the web development to the next level
+
+How to reach me:
+
+- annatar.he+github@gmail.com
+- [AnnatarHe at Jike](https://web.okjike.com/u/20965c29-1f92-4df8-9107-45043db29278)
+- [Blog](https://annatarhe.github.io/)
