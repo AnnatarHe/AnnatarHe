@@ -7,8 +7,8 @@ A Fullstack Engineer from China.
 I'm currently working on:
 
 - [ClippingKK](http://clippingkk.annatarhe.com/) A project (with Web/Mobile App) to parse files from kindle to server
-- **Athena** A secret project
-- [AsyncTalk](https://www.xiaoyuzhoufm.com/podcast/61684ce4d8fa23fb00fc4d3a?s=eyJ1IjogIjVlN2NiYjEzYTJmMmU1MDNjZWMzZjk4NSJ9) A podcast project commited to bring the web development to the next level
+- **Athena** A project
+- [AsyncTalk](https://www.xiaoyuzhoufm.com/podcast/61684ce4d8fa23fb00fc4d3a?s=eyJ1IjogIjVlN2NiYjEzYTJmMmU1MDNjZWMzZjk4NSJ9) A podcast commited to take the web development to next level
 
 How to reach me:
 
