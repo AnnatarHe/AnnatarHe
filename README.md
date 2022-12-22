@@ -1,6 +1,6 @@
 ### AnnatarHe 👋
 
-A Fullstack Engineer from China 🇨🇳.
+A Fullstack Engineer.
 
 [Home page](https://AnnatarHe.com)
 
