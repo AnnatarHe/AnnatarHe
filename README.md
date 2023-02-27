@@ -1,6 +1,6 @@
 ### AnnatarHe 👋
 
-A Fullstack Engineer.
+A Fullstack Engineer. [![wakatime](https://wakatime.com/badge/user/50ec6d6a-3992-425f-9eaf-82dd6c6e7100.svg)](https://wakatime.com/@50ec6d6a-3992-425f-9eaf-82dd6c6e7100)
 
 [Home page](https://AnnatarHe.com)
 
