@@ -6,9 +6,9 @@ A Fullstack Engineer. [![wakatime](https://wakatime.com/badge/user/50ec6d6a-3992
 
 I'm currently working on:
 
-- 📖 [ClippingKK](http://clippingkk.annatarhe.com/) A project (with Web/Mobile App) to parse files from kindle to server
+- 📖 [ClippingKK](http://clippingkk.annatarhe.com/) A project (with Web/Mobile App) to parse files from Kindle to server
 - **Athena** A project
-- 📢 [AsyncTalk](https://www.xiaoyuzhoufm.com/podcast/61684ce4d8fa23fb00fc4d3a?s=eyJ1IjogIjVlN2NiYjEzYTJmMmU1MDNjZWMzZjk4NSJ9) A podcast committed to take the web development to next level
+- 📢 [AsyncTalk](https://www.xiaoyuzhoufm.com/podcast/61684ce4d8fa23fb00fc4d3a?s=eyJ1IjogIjVlN2NiYjEzYTJmMmU1MDNjZWMzZjk4NSJ9) A podcast committed to taking the web development to next level
 
 How to reach me:
 
