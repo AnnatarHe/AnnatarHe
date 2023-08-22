@@ -1,17 +1,20 @@
-### AnnatarHe 👋
+# Hey there, I'm AnnatarHe 👋 [![wakatime](https://wakatime.com/badge/user/50ec6d6a-3992-425f-9eaf-82dd6c6e7100.svg)](https://wakatime.com/@50ec6d6a-3992-425f-9eaf-82dd6c6e7100)
 
-A Fullstack Engineer. [![wakatime](https://wakatime.com/badge/user/50ec6d6a-3992-425f-9eaf-82dd6c6e7100.svg)](https://wakatime.com/@50ec6d6a-3992-425f-9eaf-82dd6c6e7100)
+Welcome to my GitHub profile! I'm a passionate Fullstack Engineer with a strong love for building innovative solutions that make a difference. You can find out more about me on my [Home Page](https://AnnatarHe.com).
 
-[Home page](https://AnnatarHe.com)
+## 👨‍💻 What I'm up to
 
-I'm currently working on:
+- 📖 **ClippingKK** - Parsing Kindle clippings has never been easier! Check out [ClippingKK](http://clippingkk.annatarhe.com/), a project featuring both a web and mobile app to smoothly handle Kindle clippings.
+- 📢 **AsyncTalk** - Tune into [AsyncTalk](https://www.xiaoyuzhoufm.com/podcast/61684ce4d8fa23fb00fc4d3a?s=eyJ1IjogIjVlN2NiYjEzYTJmMmU1MDNjZWMzZjk4NSJ9), a podcast dedicated to taking web development to the next level.
+- ✨ **PromptPal** - Simplify your prompt maintenance with [PromptPal](https://github.com/PromptPal/PromptPal), a powerful Prompt CMS. It's designed to make developers' lives easier, supporting both On-Premise installations and cost-conscious considerations.
+- 🌟 **Athena** - A new project is brewing! Stay tuned for updates.
 
-- 📖 [ClippingKK](http://clippingkk.annatarhe.com/) A project (with Web/Mobile App) to parse files from Kindle to server
-- **Athena** A project
-- 📢 [AsyncTalk](https://www.xiaoyuzhoufm.com/podcast/61684ce4d8fa23fb00fc4d3a?s=eyJ1IjogIjVlN2NiYjEzYTJmMmU1MDNjZWMzZjk4NSJ9) A podcast committed to taking the web development to next level
+## 📬 Let's Connect
 
-How to reach me:
+Feel free to reach out through any of these channels:
 
-- 📮 annatar.he+github@gmail.com
-- [AnnatarHe at Jike](https://web.okjike.com/u/20965c29-1f92-4df8-9107-45043db29278)
-- 📖 [Blog](https://annatarhe.github.io/)
+- 📮 Email: annatar.he+github@gmail.com
+- 🌐 [Jike](https://web.okjike.com/u/20965c29-1f92-4df8-9107-45043db29278) - Connect with me on Jike.
+- 📖 [Blog](https://annatarhe.github.io/) - Explore my blog for insights and thoughts on technology and development.
+
+Let's collaborate and create something awesome together! 💡
